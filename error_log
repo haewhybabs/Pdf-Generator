@@ -1,0 +1,14 @@
+[28-Feb-2019 17:21:27 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bgkfberm5kad/public_html/generate_pdf/test5.php on line 14
+[28-Feb-2019 17:21:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bgkfberm5kad/public_html/generate_pdf/test5.php on line 20
+[28-Feb-2019 17:21:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bgkfberm5kad/public_html/generate_pdf/test5.php on line 21
+[28-Feb-2019 17:21:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bgkfberm5kad/public_html/generate_pdf/test5.php on line 27
+[28-Feb-2019 17:21:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bgkfberm5kad/public_html/generate_pdf/test5.php on line 29
+[28-Feb-2019 17:21:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bgkfberm5kad/public_html/generate_pdf/test5.php on line 30
+[28-Feb-2019 17:21:27 UTC] PHP Notice:  Undefined variable: total in /home/bgkfberm5kad/public_html/generate_pdf/test5.php on line 121
+[28-Feb-2019 17:28:05 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bgkfberm5kad/public_html/generate_pdf/test5.php on line 14
+[28-Feb-2019 17:28:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bgkfberm5kad/public_html/generate_pdf/test5.php on line 20
+[28-Feb-2019 17:28:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bgkfberm5kad/public_html/generate_pdf/test5.php on line 21
+[28-Feb-2019 17:28:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bgkfberm5kad/public_html/generate_pdf/test5.php on line 27
+[28-Feb-2019 17:28:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bgkfberm5kad/public_html/generate_pdf/test5.php on line 29
+[28-Feb-2019 17:28:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bgkfberm5kad/public_html/generate_pdf/test5.php on line 30
+[28-Feb-2019 17:28:05 UTC] PHP Notice:  Undefined variable: total in /home/bgkfberm5kad/public_html/generate_pdf/test5.php on line 121
